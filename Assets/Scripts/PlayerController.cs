@@ -5,7 +5,7 @@ public class PlayerController : MonoBehaviour
 {
 
 
-    public float speed = 0; 
+    public float speed = 10; 
 
     private Rigidbody rb;
     private float movementX; 
